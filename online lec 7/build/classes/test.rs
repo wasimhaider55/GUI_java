@@ -1,0 +1,3 @@
+test
+GUI$getContentPane
+GUI
